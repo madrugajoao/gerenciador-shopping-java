@@ -11,7 +11,7 @@ O sistema simula o funcionamento de um shopping, permitindo:
 
 --
 
-##  Tecnologias usadas
+#  Tecnologias usadas
 
 - Java
 - Programação Orientada a Objetos (POO)
