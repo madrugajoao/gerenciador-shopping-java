@@ -9,7 +9,7 @@ O sistema simula o funcionamento de um shopping, permitindo:
 - Listar as lojas cadastradas
 - Buscar uma loja pelo nome
 
----
+--
 
 ##  Tecnologias usadas
 
