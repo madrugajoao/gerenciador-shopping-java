@@ -9,14 +9,14 @@ O sistema simula o funcionamento de um shopping, permitindo:
 - Listar as lojas cadastradas
 - Buscar uma loja pelo nome
 
---
+
 
 #  Tecnologias usadas
 
 - Java
 - Programação Orientada a Objetos (POO)
 
----
+
 
 ##  O que eu aprendi com este projeto
 
@@ -26,7 +26,7 @@ O sistema simula o funcionamento de um shopping, permitindo:
 - Separar responsabilidades entre classes
 - Pensar na lógica antes de programar
 
----
+
 
 ##  Como executar o projeto
 
@@ -36,7 +36,7 @@ O sistema simula o funcionamento de um shopping, permitindo:
 
 3. Execute a classe `Main.java`
 
----
+
 
 ##  Estrutura do projeto
 
