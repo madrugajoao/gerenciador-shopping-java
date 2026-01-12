@@ -1,4 +1,4 @@
-# 🏬 Sistema de Shopping em Java
+#  Sistema de Shopping em Java
 
 Este é um projeto simples em Java, feito para praticar lógica de programação e conceitos básicos de orientação a objetos.
 
@@ -11,14 +11,14 @@ O sistema simula o funcionamento de um shopping, permitindo:
 
 ---
 
-## 🚀 Tecnologias usadas
+##  Tecnologias usadas
 
 - Java
 - Programação Orientada a Objetos (POO)
 
 ---
 
-## 🧠 O que eu aprendi com este projeto
+##  O que eu aprendi com este projeto
 
 - Criar e usar classes em Java
 - Trabalhar com arrays e laços de repetição
@@ -28,7 +28,7 @@ O sistema simula o funcionamento de um shopping, permitindo:
 
 ---
 
-## ▶️ Como executar o projeto
+##  Como executar o projeto
 
 1. Baixe ou clone o repositório:
 
@@ -38,7 +38,7 @@ O sistema simula o funcionamento de um shopping, permitindo:
 
 ---
 
-## 🧩 Estrutura do projeto
+##  Estrutura do projeto
 
 - `Main.java` → Classe principal que inicia o sistema  
 - `Shopping.java` → Classe que representa o shopping  
@@ -46,13 +46,13 @@ O sistema simula o funcionamento de um shopping, permitindo:
 
 ---
 
-## 💡 Observação importante
+##  Observação importante
 
 Este projeto foi desenvolvido como parte do meu aprendizado em Java, com apoio de pesquisas, documentação e ferramentas como o ChatGPT.  
 Eu entendo todo o funcionamento do código e consigo explicar e modificar qualquer parte dele.
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 João Pedro Madruga
